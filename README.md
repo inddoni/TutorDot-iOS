@@ -5,13 +5,6 @@
 <br>
 
 
-## 🍎  26기 OUR SOPT APP-JAM 'TutorDot' 🍏
-
-> iOS 파트 :  YB 류세화, YB 최인정
->
-> 프로젝트 기간 : 2020.6.27 ~ 2020.7.18
-
-<br>
 
 
 ### 1️⃣ 역할 분담
@@ -31,19 +24,14 @@
 
 ### 2️⃣ Git 관련 협의 (워크플로우, 브랜치, 리드미 등)
 
-- 워크플로우 : master(최종본) - dev(통합관리) - 각 기능별 브랜치(담당자가 관리)
-- readme 작성에 대해서
-    - 결론 : 틈틈히 최대한 자세히 적기 (나중에 정리)
-    - 미루지 말고 작업할 때마다 기록해놓자! (기록하는 습관 잊지말긩!)
-- Git commit message 형식 통일
-    - Message는 3가지 라벨만 사용
-        - **Add** : 아예 **새로운 파일(swift, storyboard, VC 파일 등)** 추가
-        - **Update** : 기존 파일에 **기능, UI요소 추가**
-        - **Fix** : 기존 기능 수정이나 에러 해결 등
-    - Format : 라벨 + commit comment
+- 워크플로우 : master - dev - 각 기능별 브랜치
+- Git Commit message 형식 통일
+    1. 커밋 종류를 3가지 경우(라벨)로 구분한다. 
+        - **Add** : 아예 **새로운 파일(swift, storyboard, VC 파일 등)**을 추가하는 경우
+        - **Update** : 기존 파일에 **기능이나 UI요소를 추가**하는 경우
+        - **Fix** : 기존 기능의 수정이나 에러를 해결하는 경우
+    2. Format : 라벨 + commit comment
 - 우리의 Git Workflow 최종 정리 [노션 링크](https://www.notion.so/inddoni/Git-workflow-7e9d12b5cc6a49ca8c0dcebe0d7ff434) 🔥
-
-
 
 
 <br>
@@ -81,8 +69,7 @@
 
 
 ### 4️⃣ 개발 환경
-
-​    ![](https://img.shields.io/badge/Xcode-11.5-3C7DE6) &nbsp;![](https://img.shields.io/badge/Swift-5.0-ff69b4)
+​![](https://img.shields.io/badge/Xcode-11.5-3C7DE6) &nbsp;![](https://img.shields.io/badge/Swift-5.0-ff69b4)
 
 <br>
 
@@ -580,11 +567,17 @@ if startHours[pickerView.selectedRow(inComponent: 1)] != "00" { //시작시간�
 <br>
 
 
+## 🍎  26기 OUR SOPT APP-JAM 'TutorDot' 🍏
+> 1차 프로젝트 기간 : 2020.6.27 ~ 2020.7.18<br>
+> SOPT 26th AppJam 데모데이 : 000년 0월 0일<bt>
+> 2차 프로젝트 기간 : 2020.10~2020.12<br>
+> Release Date : 2020.12.08
+
+<br>
 
 > ### Contributors 
 
-&nbsp;&nbsp;🐰26기 iOS파트 YB 류세화 [SehwaRyu](https://github.com/sophryu99)&nbsp;&nbsp;|&nbsp;&nbsp;`@soonsophu`
-
+&nbsp;&nbsp;🐰26기 iOS파트 YB 류세화 [SehwaRyu](https://github.com/sophryu99)&nbsp;&nbsp;|&nbsp;&nbsp;`@soonsophu` <br>
 &nbsp;&nbsp;🐱26기 iOS파트 YB 최인정 [InjeongChoi](https://github.com/inddoni)&nbsp;&nbsp;|&nbsp;&nbsp;`@leanjeong`
 
 
